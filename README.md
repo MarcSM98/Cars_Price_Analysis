@@ -13,17 +13,27 @@ The following libraries will be imported for this dataset:
 
 
 ## Description of variables
-`dateCrawled`: Date and Time information for Vehicles
-`name`: Name of Vehicle
-`price`: Price of Vehicle
-`vehicleType`: Type of Vehicle
-`yearOfRegistration`: Year in which the vehicle was registered
-`gearbox`: Gear transmission of Vehicle
-`model`: Model name for a vehicle
-`odometer`: Distance travelled by a vehicle
-`monthOfRegistration`: Month in which the vehicle was registered
-`fuelType`: Type of Fuel in which the vehicle uses
-`brand`: Brand name for a vehicle
+`dateCrawled:` Date and Time information for Vehicles
+
+`name:` Name of Vehicle
+
+`price:` Price of Vehicle
+
+`vehicleType:` Type of Vehicle
+
+`yearOfRegistration:` Year in which the vehicle was registered
+
+`gearbox:` Gear transmission of vehicle
+
+`model:` Model name for the vehicle
+
+`odometer:` Distance travelled by the vehicle
+
+`monthOfRegistration:` Month in which the vehicle was registered
+
+`fuelType:` Type of Fuel in which the vehicle uses
+
+`brand:` Brand name for the vehicle
 
 
 
