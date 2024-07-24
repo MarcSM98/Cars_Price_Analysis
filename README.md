@@ -9,9 +9,6 @@ The following libraries will be imported for this dataset:
 - Matplotlib
 - Seaborn
 
-## Data
-
-
 ## Description of variables
 `dateCrawled:` Date and Time information for Vehicles
 
